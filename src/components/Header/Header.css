@@ -1,0 +1,41 @@
+.header-container {
+  padding: 54px 0 54px 0;
+
+  border: 1px blue solid;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logo img {
+  width: 160px;
+}
+
+.menu-list ul {
+  list-style: none;
+  display: flex;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 1.5px;
+}
+
+.menu-list ul li {
+  margin-right: 56px;
+  font-weight: 500;
+}
+
+.menu-list ul li a {
+  color: #656575;
+}
+
+.menu-list ul li:last-child {
+  border: 1px yellow solid;
+  background-color: #fd5759;
+  padding: 12px 28px 12px 28px ;
+  margin-top: -12px;
+  border-radius: 10px;
+}
+
+.menu-list ul li:last-child a {
+  color: #fff;
+}
