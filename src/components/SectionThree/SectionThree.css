@@ -1,0 +1,53 @@
+.section-three {
+  margin-top: 60px;
+  background-color: #5266df;
+  padding-bottom: 40px;
+}
+
+.sec-three-container {
+  padding-top: 40px;
+  width: 76.5%;
+  margin: auto;
+  text-align: center;
+  color: #fff;
+}
+
+.joined p {
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.title h3 {
+  margin: auto;
+  margin-top: 32px;
+  width: 32%;
+  font-size: 28px;
+}
+
+.form {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.form input {
+  padding: 16px 60px;
+  border-radius: 6px;
+}
+
+.form input:focus {
+  outline: none;
+}
+
+.form button {
+  background-color: #fd5759;
+  color: #fff;
+  border: none;
+  margin-left: 18px;
+  padding: 17px 20px;
+  font-weight: 600;
+  border-radius: 6px;
+}

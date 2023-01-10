@@ -1,0 +1,51 @@
+.section-one {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-top: 60px;
+  margin-top: 80px;
+}
+
+.context {
+  
+}
+
+.context h1 {
+  font-size: 50px;
+  letter-spacing: 1.5px;
+
+}
+
+.context p {
+  margin-top: 16px;
+  font-size: 20px;
+  color: #656575;
+  letter-spacing: 0.7px;
+}
+
+.section-one-btns {
+  margin-top: 22px;
+}
+
+.chrome-btn {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border: none;
+  padding: 18px 28px;
+  border-radius: 6px;
+  color: #fff;
+  background-color: #5266df;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.firefox-btn {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border: none;
+  padding: 18px 28px;
+  border-radius: 6px;
+  margin-left: 18px;
+  color: #656575;
+  background-color: #f7f7f7;
+  font-weight: 600;
+  letter-spacing: 1px;
+}

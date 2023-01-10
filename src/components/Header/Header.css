@@ -1,7 +1,5 @@
 .header-container {
   padding: 54px 0 54px 0;
-
-  border: 1px blue solid;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -29,7 +27,6 @@
 }
 
 .menu-list ul li:last-child {
-  border: 1px yellow solid;
   background-color: #fd5759;
   padding: 12px 28px 12px 28px ;
   margin-top: -12px;

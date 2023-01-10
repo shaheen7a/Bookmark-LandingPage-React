@@ -1,0 +1,16 @@
+.section-four {
+  background-color: #242946;
+  color: #fff;
+}
+
+.sec-four-container {
+  padding-top: 40px;
+  width: 76.5%;
+  margin: auto;
+  text-align: center;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
