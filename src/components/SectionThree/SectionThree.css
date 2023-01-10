@@ -45,9 +45,17 @@
 .form button {
   background-color: #fd5759;
   color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   border: none;
   margin-left: 18px;
   padding: 17px 20px;
   font-weight: 600;
   border-radius: 6px;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: #fff;
+  color: #fd5759;
+  transition: 0.5s ease-in-out;
 }

@@ -7,7 +7,6 @@
 Thanks for checking out this Application.
 
 ## Overview
-Note: Application still under process of creation ⚠️
 
 ### Links
 
@@ -22,6 +21,8 @@ Note: Application still under process of creation ⚠️
 - CSS
 - JavaScript
 - JSX
+
+- Not Responsive ❌
 
 
 ## Author

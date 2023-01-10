@@ -36,6 +36,13 @@
   background-color: #5266df;
   font-weight: 600;
   letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.chrome-btn:hover {
+  background-color: #fff;
+  color: #5266df;
+  transition: 0.5s ease-in-out;
 }
 
 .firefox-btn {
@@ -48,4 +55,11 @@
   background-color: #f7f7f7;
   font-weight: 600;
   letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.firefox-btn:hover {
+  color: #fff;
+  background-color: #5266df;
+  transition: 0.5s ease-in-out;
 }

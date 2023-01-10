@@ -70,8 +70,14 @@
   background-color: #5266df;
   font-weight: 600;
   letter-spacing: 1px;
+  cursor: pointer;
 }
 
+.add-btn button:hover {
+  background-color: #fff;
+  color: #5266df;
+  transition: 0.5s ease-in-out;
+}
 .card02 {
   margin-top: 32px;
 }
