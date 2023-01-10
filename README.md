@@ -1,6 +1,6 @@
-# Bookmart-Landing-Page
+# Bookmark-Landing-Page
 
-![Bookmart-Landing-Page](./src/assets/desktop-preview.jpg)
+![Bookmark-Landing-Page](./src/assets/desktop-preview.jpg)
 
 
 ## Welcome! 👋
@@ -11,7 +11,7 @@ Thanks for checking out this Application.
 ### Links
 
 - Website URL: [Github](https://github.com/Shaheen121/Bookmark-LandingPage-React.git)
-- Live Site URL: [Live Site](https://github.com/Shaheen121/Bookmark-LandingPage-React.git)
+- Live Site URL: [Live Site](https://bookmark-landing-page-frontendment0r.netlify.app/)
 
 ## My process
 
